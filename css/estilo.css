@@ -1,0 +1,27 @@
+.bot{
+    width: 100px;
+    background-color: gainsboro;
+    color: black;
+}
+.bot2{
+    width: 100px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.bot3{
+    width: 100px;
+    color:white;
+}
+
+.tabela{
+    width: 400px;
+}
+
+.borda{
+    margin: 20px;
+    border: solid darkgray 2px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 430px;
+}
